@@ -4,9 +4,5 @@
 创建了一个新的分支dev
 create a new branch is quick.
 修改了
-<<<<<<< Updated upstream
 //========== bug 分支
-=======
-//========== bug 分支===========
 1、进行了修改
->>>>>>> Stashed changes
